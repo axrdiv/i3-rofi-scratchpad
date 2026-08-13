@@ -1,5 +1,7 @@
+
+
 # i3-rofi-scratchpad
-`i3-rofi-scratchpad` help you using rofi to select scratchpad windows.
+`i3-rofi-scratchpad` helps you select scratchpad windows using Rofi.
 
 ![i3-rofi-scratchpad](./img/i3-rofi.gif)
 
